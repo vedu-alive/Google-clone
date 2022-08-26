@@ -52,7 +52,7 @@ function Header() {
         <div className="ml-auto space-x-2 flex">
           <CogIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer hidden sm:inline-flex " />
           <ViewGridIcon className=" h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer hidden sm:inline-flex" />
-          //<Avatar url="https://media-exp1.licdn.com/dms/image/C4D03AQH34EFzopClig/profile-displayphoto-shrink_800_800/0/1642782924048?e=1666828800&v=beta&t=dKXOjVNAcvJcPAu25MagIn7k3YFusb__rInl5rAY6pU" />
+            {/* <Avatar url="https://media-exp1.licdn.com/dms/image/C4D03AQH34EFzopClig/profile-displayphoto-shrink_800_800/0/1642782924048?e=1666828800&v=beta&t=dKXOjVNAcvJcPAu25MagIn7k3YFusb__rInl5rAY6pU" /> */}
         </div>
       </div>
       <HeaderOptions />
