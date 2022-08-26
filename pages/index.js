@@ -40,7 +40,7 @@ export default function Home() {
           <p className="link">Gmail</p>
           <p className="link">images</p>
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
-          <Avatar url="https://media-exp1.licdn.com/dms/image/C4D03AQH34EFzopClig/profile-displayphoto-shrink_800_800/0/1642782924048?e=1666828800&v=beta&t=dKXOjVNAcvJcPAu25MagIn7k3YFusb__rInl5rAY6pU" />
+          //<Avatar url="https://media-exp1.licdn.com/dms/image/C4D03AQH34EFzopClig/profile-displayphoto-shrink_800_800/0/1642782924048?e=1666828800&v=beta&t=dKXOjVNAcvJcPAu25MagIn7k3YFusb__rInl5rAY6pU" />
         </div>
       </header>
       <form className="flex flex-col items-center flex-grow mt-36 w-4/5">
